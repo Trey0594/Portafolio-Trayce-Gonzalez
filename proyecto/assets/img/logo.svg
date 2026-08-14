@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">TG — Trayce González</title>
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E9C766"/>
+      <stop offset="100%" stop-color="#B8892E"/>
+    </linearGradient>
+    <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6FBF"/>
+      <stop offset="100%" stop-color="#E0308A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- outer dotted decorative circle -->
+  <circle cx="100" cy="100" r="86" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" stroke-dasharray="1 7" stroke-linecap="round" opacity="0.85"/>
+  <!-- main circle -->
+  <circle cx="100" cy="100" r="78" fill="#121212" stroke="url(#goldGrad)" stroke-width="2"/>
+
+  <!-- decorative dots top right -->
+  <circle cx="158" cy="58" r="3" fill="url(#pinkGrad)"/>
+  <circle cx="163" cy="72" r="2.2" fill="url(#goldGrad)"/>
+  <circle cx="165" cy="87" r="1.6" fill="url(#goldGrad)"/>
+
+  <!-- decorative star bottom left -->
+  <path d="M40 150 l3.2 8 8 3.2 -8 3.2 -3.2 8 -3.2-8 -8-3.2 8-3.2z" fill="url(#goldGrad)"/>
+
+  <!-- monogram TG -->
+  <text x="100" y="128" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-weight="700" font-size="88" fill="url(#pinkGrad)">TG</text>
+</svg>
