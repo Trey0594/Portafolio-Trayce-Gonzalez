@@ -2,13 +2,7 @@ Nombre: Trayce González Brenes
 Proyecto: Portafolio Web Interactivo — Universidad Cenfotec
 
 URL del portafolio publicado (GitHub Pages):
-https://trey0594.github.io/NOMBRE-DE-TU-REPOSITORIO/
+https://trey0594.github.io/Portafolio-Trayce-Gonzalez/
 
 URL del repositorio en GitHub:
-https://github.com/Trey0594/NOMBRE-DE-TU-REPOSITORIO
-
----
-Instrucciones: reemplaza "NOMBRE-DE-TU-REPOSITORIO" arriba por el nombre real
-que le diste a tu repositorio al crearlo y subirlo a GitHub Pages (ver README.md
-para el paso a paso). Luego sube este archivo .txt a Moodle tal como lo pide la
-consigna del proyecto.
+https://github.com/Trey0594/Portafolio-Trayce-Gonzalez
